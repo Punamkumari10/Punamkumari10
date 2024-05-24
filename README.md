@@ -1,9 +1,10 @@
--👋 Hi, I’m Punam
--👀 I’m interested in Data Science and Full Stack Developer
--🔭 Learning FullStack (Frontend + Backend)
--💻 I love exploring new tech stacks and building cool stuff.
--📰 Reading tech documentation whenever possible.
--📫 How to reach me punamkumari102019@gmail.com
+- 👋 Hi, I’m Punam
+- 👀 I’m interested in Data Science and Full Stack Developer
+- 🔭 Learning FullStack (Frontend + Backend)
+- 💻 I love exploring new tech stacks and building cool stuff.
+- 📰 Reading tech documentation whenever possible.
+- 📫 How to reach me punamkumari102019@gmail.com
+
 **Things I love:**
 1. Python 
 2. Frontend and Backend Development ✍️
